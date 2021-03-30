@@ -1,10 +1,3 @@
-//
-//  playlist.cpp
-//  Project_0_250
-//
-//  Created by Himanshi Gidwani on 2021-01-26.
-//
-
 #include <iostream>
 
 using namespace std;
